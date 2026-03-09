@@ -12,7 +12,7 @@
     "mongoose": "^6.3.4"
   },
   "engines": {
-    "node": "16.x"
+    "node": "24.x"
   },
   "scripts": {
     "dev": "PORT=1231 nodemon run .",
